@@ -51,3 +51,7 @@ CUDA_VISIBLE_DEVICES=0 python inference.py --name test
 kaggle competitions submit -c the-nature-conservancy-fisheries-monitoring -f submission.csv -m "{submission description}"
 ```
 
+## Reference
+* Feature Fusion Vision Transformer for Fine-Grained Visual Categorization
+[Paper](https://arxiv.org/pdf/2107.02341.pdf) | [Github](https://github.com/Markin-Wang/FFVT)
+
