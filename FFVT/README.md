@@ -52,7 +52,5 @@ kaggle competitions submit -c the-nature-conservancy-fisheries-monitoring -f sub
 ```
 
 ## Reference
-* Feature Fusion Vision Transformer for Fine-Grained Visual Categorization
-
-[Paper](https://arxiv.org/pdf/2107.02341.pdf) | [Github](https://github.com/Markin-Wang/FFVT)
+* Feature Fusion Vision Transformer for Fine-Grained Visual Categorization - [Paper](https://arxiv.org/pdf/2107.02341.pdf) | [Github](https://github.com/Markin-Wang/FFVT)
 
