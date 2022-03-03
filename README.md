@@ -1,4 +1,4 @@
-# Final project: The Nature Conservancy Fisheries Monitoring
+# Project: The Nature Conservancy Fisheries Monitoring
 
 
 ## Introduction
